@@ -32,4 +32,4 @@ Wanna talk?
 =====
 Hit me up on [Tutanota](mailto:thzgr@tuta.io) through thzgr at tuta dot io.<br>
 If you prefer you can contact via [Protonmail](mailto:thzgr@proton.me) through thzgr at proton dot me.<br>
-If you need a more private and personal way of talking, email me asking for my [Session](https://getsession.org/) ID.
+If you need a more private and personal way of having a conversation, email me asking for my [Session](https://getsession.org/) ID.
