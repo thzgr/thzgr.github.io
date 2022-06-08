@@ -21,7 +21,7 @@ Laptop: R5 5500U, 20GB RAM, 256GB NVMe + 500GB SSD, Integrated AMD Radeon
 ### FOSS software alternatives
 Micro, Firefox, Joplin, ONLYOFFICE, MEGA, Bitwarden, Aegis, Jitsi, Thunderbird, Tutanota, Session
 
-#### Peripherals
+### Peripherals
 Microsoft Designer Compact Keyboard
 
 Logitech MX Vertical
