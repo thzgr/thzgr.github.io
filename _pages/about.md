@@ -10,33 +10,17 @@ redirect_from:
 This is not something to be proud of but well here we are.
 
 Some topics I'm interested in:
+>>> Data Engineering, Spark, Data pipelines, Python, Cloud computing, Databases (mostly PostgreSQL)
+>>> Bioinformatics, Transcriptomics, Liver disease, Statistics
+>>> Linux & FOSS, Hardware
+And bicycles!
 
-- Data Engineering, Spark, Data pipelines
-- Python
-- Cloud computing
-- Databases (mostly PostgreSQL)
-- Bioinformatics
-- Transcriptomics
-- Liver disease
-- Statistics
-- Linux & FOSS
-- Hardware
-- And bicycles.
-
-Let's see what else
-
-=====
+####Let's see what else
 Be kind, help someone, learn how to live, don't live to work.
-
 Stop comparing yourself to others, they don't live your life.
-
 No racism, no homophobia, no transphobia, no fascism and more.
 
-Wanna talk?
-
-=====
+### Wanna talk?
 Hit me up on [Tutanota](mailto:thzgr@tuta.io) through thzgr at tuta dot io.
-
 If you prefer you can contact via [Protonmail](mailto:thzgr@proton.me) through thzgr at proton dot me.
-
 If you need a more private and personal way of having a conversation, email me asking for my [Session](https://getsession.org/) ID.

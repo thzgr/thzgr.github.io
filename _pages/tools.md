@@ -7,36 +7,24 @@ redirect_from:
   - /techies/
 ---
 
-Linux
-=====
+### Linux
 Pop!_OS 22.04 LTS
 
-Hardware
-=====
-Desktop: R5 1600, 16GB RAM, Kingston 500GB SSD, Asus RX 580 4GB<br>
+### Shell
+Bash with customized prompt for terminals
+
+### Hardware
+Desktop: R5 1600, 16GB RAM, Kingston 500GB SSD, Asus RX 580 4GB
 Laptop: R5 5500U, 20GB RAM, 256GB NVMe + 500GB SSD, Integrated AMD Radeon
 
-FOSS software alternatives
-=====
-Emacs, text editor<br>
-Firefox, browser, harden it<br>
-Joplin, note taking and todo lists<br>
-ONLYOFFICE Desktop, general purpose office suite<br>
-MEGA, cloud file sync<br>
-Bitwarden, pw manager<br>
-Aegis, OTP and 2FA<br>
-Jitsi, meeting provider<br>
-Thunderbird Mail, mail client<br>
-Tutanota, mail provider<br>
-Session, chat service
+### FOSS software alternatives
+Micro, Firefox, Joplin, ONLYOFFICE, MEGA, Bitwarden, Aegis, Jitsi, Thunderbird, Tutanota, Session
 
-Peripherals
-=====
-Microsoft Designer Compact Keyboard<br>
+#### Peripherals
+Microsoft Designer Compact Keyboard
 Logitech MX Vertical
 
-Wanna talk?
-=====
-Hit me up on [Tutanota](mailto:thzgr@tuta.io) through thzgr at tuta dot io.<br>
-If you prefer you can contact via [Protonmail](mailto:thzgr@proton.me) through thzgr at proton dot me.<br>
+### Wanna talk?
+Hit me up on [Tutanota](mailto:thzgr@tuta.io) through thzgr at tuta dot io.
+If you prefer you can contact via [Protonmail](mailto:thzgr@proton.me) through thzgr at proton dot me.
 If you need a more private and personal way of having a conversation, email me asking for my [Session](https://getsession.org/) ID.
