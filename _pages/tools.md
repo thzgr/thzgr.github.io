@@ -1,25 +1,44 @@
 ---
 permalink: /tools/
-title: "Tools I use daily"
+title: "Tools for daily usage"
 author_profile: true
 redirect_from: 
   - /tooling/
   - /techies/
 ---
 
-### Linux
-Pop!_OS 22.04 LTS
+### OSes
+Pop!_OS 22.04 LTS w/ custom bash prompt
 
-### Shell
-Bash with customized prompt for terminals
+Windows 10
+
+### Linux customization ~ [dotfiles](https://github.com/thzgr/dotfiles)
+Polybar
+
+Rofi
+
+Pop!_OS tiling window
+
+### Text editor
+Micro
+
+VSCodium
+
+### Browser
+Firefox
+
+### Note taking
+Joplin
+
+### Pw manager and 2FA
+Bitwarden
+
+Aegis
 
 ### Hardware
 Desktop: R5 1600, 16GB RAM, Kingston 500GB SSD, Asus RX 580 4GB
 
 Laptop: R5 5500U, 20GB RAM, 256GB NVMe + 500GB SSD, Integrated AMD Radeon
-
-### FOSS software alternatives
-Micro, Firefox, Joplin, ONLYOFFICE, MEGA, Bitwarden, Aegis, Jitsi, Thunderbird, Tutanota, Session
 
 ### Peripherals
 Microsoft Designer Compact Keyboard
