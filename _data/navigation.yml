@@ -1,13 +1,13 @@
 # main links links
-main:
-  - title: "Publications"
-    url: /publications/
-        
-  - title: "Blog Posts"
+main:        
+  - title: "Blog"
     url: /blog/
   
-  - title: "Tools"
-    url: /tools/
+  - title: "Wiki"
+    url: /wiki/
+  
+  - title: "Publications"
+    url: /publications/
     
   #- title: "CV"
   #  url: /cv/

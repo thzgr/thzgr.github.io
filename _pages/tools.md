@@ -1,51 +1,22 @@
 ---
-permalink: /tools/
-title: "Tools for daily usage"
-author_profile: true
+permalink: /wiki/
+title: "Wiki"
+author_profile: false
 redirect_from: 
   - /tooling/
-  - /techies/
+  - /tools/
 ---
 
-### OSes
-Pop!_OS 22.04 LTS w/ custom bash prompt
+- [Software](https://thzgr.github.io/wiki/software)
 
-Windows 10
+- [Hardware](https://thzgr.github.io/wiki/hardware)
 
-### Linux customization ~ [dotfiles](https://github.com/thzgr/dotfiles)
-Polybar
+- [Coding](https://thzgr.github.io/wiki/coding)
 
-Rofi
-
-Pop!_OS tiling window
-
-### Text editor
-Micro
-
-VSCodium
-
-### Browser
-Firefox
-
-### Note taking
-Joplin
-
-### Pw manager and 2FA
-Bitwarden
-
-Aegis
-
-### Hardware
-Desktop: R5 1600, 16GB RAM, Kingston 500GB SSD, Asus RX 580 4GB
-
-Laptop: R5 5500U, 20GB RAM, 256GB NVMe + 500GB SSD, Integrated AMD Radeon
-
-### Peripherals
-Microsoft Designer Compact Keyboard
-
-Logitech MX Vertical
+- [Peripherals](https://thzgr.github.io/wiki/peripherals)
 
 ### Wanna talk?
+
 Hit me up on [Tutanota](mailto:thzgr@tuta.io) through thzgr at tuta dot io.
 
 If you prefer you can contact via [Protonmail](mailto:thzgr@proton.me) through thzgr at proton dot me.

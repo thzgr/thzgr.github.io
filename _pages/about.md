@@ -1,31 +1,29 @@
 ---
 permalink: /
-title: "Don't expect a lot"
+title: "This is where I live"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This is not something to be proud of but well here we are.
-
 Some topics I'm interested in:
 
 . Data Engineering, Spark, data pipelines, Python, cloud computing, Databases (mostly PostgreSQL)
 
-. Bioinformatics, transcriptomics, NASH/NAFLD, statistics
+. Bioinformatics, molecular biology, transcriptomics, NASH/NAFLD, statistics
 
-. Linux & FOSS, hardware
+. Linux & FLOSS, hardware
 
 And bicycles!
 
-## Let's see what else
+## Also these are some notes
 
-Be kind, help someone, learn how to live, don't live to work.
+"Be kind, help someone, learn how to live, don't live to work" (Someone)
 
-Stop comparing yourself to others, they don't live your life.
+"Stop comparing yourself to others, they don't live your life" (Someone else)
 
-No racism, no homophobia, no transphobia, no fascism and more.
+Stop racism, stop homophobia, stop transphobia, stop fascism.
 
 ## Wanna talk?
 
