@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+## A data plumber gluing pipes and in love with bioinformatics
+
 Some topics I'm interested in:
 
 . Data Engineering, Spark, data pipelines, Python, cloud computing, Databases (mostly PostgreSQL)
@@ -23,7 +26,7 @@ And bicycles!
 
 "Stop comparing yourself to others, they don't live your life" (Someone else)
 
-Stop racism, stop homophobia, stop transphobia, stop fascism.
+No racism, no homophobia, no transphobia, no fascism.
 
 ## Wanna talk?
 

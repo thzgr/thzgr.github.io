@@ -6,8 +6,8 @@ main:
   - title: "Wiki"
     url: /wiki/
   
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
     
   #- title: "CV"
   #  url: /cv/

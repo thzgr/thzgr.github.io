@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomaz GR"
+title                    : "Thomaz"
 title_separator          : "-"
 name                     : &name "thomaz!"
 description              : &description "Data Engineering and Bioinformatics"
