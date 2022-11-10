@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+## Follow me on Mastodon!
+Here: <a rel="me" href="https://mas.to/@thz">Mastodon</a>
+
 ## A data plumber gluing pipes and in love with bioinformatics
 
 Some topics I'm interested in:
