@@ -21,7 +21,7 @@ Some topics I'm interested in:
 
 . Linux & FLOSS, hardware
 
-And bicycles!
+Also philosophy books and bicycles!
 
 ## Also these are some notes
 
@@ -29,7 +29,7 @@ And bicycles!
 
 "Stop comparing yourself to others, they don't live your life" (Someone else)
 
-No racism, no homophobia, no transphobia, no fascism.
+No ['racism', 'homophobia', 'transphobia', 'fascism'].
 
 ## Wanna talk?
 
