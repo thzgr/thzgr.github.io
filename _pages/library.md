@@ -1,12 +1,13 @@
 ---
 permalink: /publiclibrary/
-title: "Public library"
+title: "Public Library"
 author_profile: false
-redirect_from;
+redirect_from: 
   - /lib/
   - /library/
   - /publib/
 ---
+
 
 Orwell, George:
   - 1984, Via Leitura
