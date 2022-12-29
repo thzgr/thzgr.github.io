@@ -7,7 +7,7 @@ main:
     url: /wiki/
 
   - title: "Public Library"
-    url: /library/
+    url: /publiclibrary/
       
   # - title: "Publications"
   #   url: /publications/
