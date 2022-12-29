@@ -5,7 +5,9 @@ main:
   
   - title: "Wiki"
     url: /wiki/
-  
+
+  - title: "Public Library"
+    url: /publiclibrary/  
   # - title: "Publications"
   #   url: /publications/
     
