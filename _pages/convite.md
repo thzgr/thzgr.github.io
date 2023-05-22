@@ -4,10 +4,9 @@ author_profile: false
 sitemap: false
 ---
 
-<h1 style="text-align: center;"> CONVITE DA STEAFANY </h1>
+<h1 style="text-align: center;"> CONVITE DA STEFANY </h1>
 
-<h2 style="text-align: center;">Isso é um convite para jantar</h2>
-<h2 style="text-align: center;">E também assistir Demon Slayer/Studio Ghibli/Silo</h2>
+<h2 style="text-align: center;">Isso é um convite para jantar <b> E também assistir Demon Slayer/Studio Ghibli/Silo</h2>
 
 <h3 style="text-align: center;">Data: 26 de Maio de 2023</h3>
 <h3 style="text-align: center;">Horário: 18h00 (ou 19h00) até sem horas para acabar</h3>
@@ -18,4 +17,4 @@ sitemap: false
 <h3 style="text-align: center;">O outro endereço você já sabe</h3>
 
 <h3 style="text-align: center;">ACEITAS?</h3>
-<button name="button" style="text-align: center;" onclick="https://www.youtube.com/watch?v=p5fnHWznTBQ">SIM</button>
+<button name="button" style="text-align: center;align: center;" onclick="https://www.youtube.com/watch?v=p5fnHWznTBQ">SIM</button>
