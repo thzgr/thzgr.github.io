@@ -3,7 +3,7 @@ permalink: /convite/
 title: "CONVITE DA STEFANY"
 author_profile: false
 redirect_from: 
-  - /convite/
+  - /convitenho/
 ---
 
 <h1 style="text-align: center;"> CONVITE DA STEAFANY </h1>
