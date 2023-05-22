@@ -17,4 +17,4 @@ sitemap: false
 <h3 style="text-align: center;">O outro endereço você já sabe</h3>
 
 <h3 style="text-align: center;">ACEITAS?</h3>
-<button name="button" style="text-align: center;align: center;" onclick="window.open('youtube.com/watch?v=p5fnHWznTBQ','_self');">SIM</button>
+<div class="vertical-center"><button name="button" style="text-align: center;align: center;" href="youtube.com/watch?v=p5fnHWznTBQ" onclick="parent.open('youtube.com/watch?v=p5fnHWznTBQ','_self');">SIM</button></div>
